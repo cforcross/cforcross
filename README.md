@@ -8,7 +8,7 @@ Skills: VUE JS / REACT / JS / HTML / CSS/ DJANGO/ Node
 - 🔭 I’m currently working on this page. 
 - 🌱 I’m currently learning Mern Stack 
 - 💬 Ask me about anything 
- ## check me out on Fiver to �👉🏿👉🏿👉🏿* [FIVER](https://www.fiverr.com/chowacross848)
+ ## check me out on Fiver to �👉🏿👉🏿👉🏿* [FIVERR](https://www.fiverr.com/chowacross848)
 
 
 
