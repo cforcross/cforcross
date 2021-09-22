@@ -8,9 +8,8 @@ Skills: VUE JS / REACT / JS / HTML / CSS/ DJANGO/ Node
 - 🔭 I’m currently working on this page. 
 - 🌱 I’m currently learning Mern Stack 
 - 💬 Ask me about anything 
-- 😄 Pronouns: Mr 
- ## check me out on Fiver to 
-* [FIVER](https://www.fiverr.com/chowacross848)
+ ## check me out on Fiver to �👉🏿👉🏿👉🏿* [FIVER](https://www.fiverr.com/chowacross848)
+
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/cforcross)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/chowacross/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/chowathegod/) 
