@@ -1,4 +1,4 @@
-### Hi there 👋, my name is chowa
+### Hi there 👋, my name's are  chowa cross
 #### I aim at being the best 
 ![I aim at being the best ]
 
