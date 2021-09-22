@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is chowa
 #### I aim at being the best 
-![I aim at being the best ](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+![I aim at being the best ]
 
 I am a full stack developer
 
