@@ -6,7 +6,7 @@ I am a full stack developer
 Skills: VUE JS / REACT / JS / HTML / CSS/ DJANGO/ Node
 
 - 🔭 I’m currently working on this page. 
-- 🌱 I’m currently learning Mern Stack 
+- 🌱 I’m currently learning ## BlochChain, Solidity,Ethereum 
 - 💬 Ask me about anything 
  ## check me out on Fiver to �👉🏿👉🏿👉🏿* [FIVERR](https://www.fiverr.com/chowacross848)
 
