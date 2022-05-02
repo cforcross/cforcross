@@ -1,4 +1,4 @@
-### Hi there 👋, my name's are  chowa cross
+### Hi there 👋, my name's are  chowa cross A.K Usmanu Maliki
 #### I aim at being the best there's at what i do also hoping to one day having the freedom of not having to work 9-5 lol
 
 I am a full stack developer
