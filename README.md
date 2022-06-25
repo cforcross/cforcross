@@ -3,10 +3,10 @@
 
 I am a full stack developer
 
-Skills: VUE JS / REACT / JS / HTML / CSS/ DJANGO/ Node
+Skills: VUE JS / REACT / JS / HTML / CSS/ DJANGO/ Node /Golang /Solidity / Devops
 
 - 🔭 I’m currently working on this page. 
-- 🌱 I’m currently learning ### BlockChain, Solidity,Ethereum 
+- 🌱 I’m currently learning ### BlockChain
 - 💬 Ask me about anything 
  ## check me out on Fiver to �👉🏿👉🏿👉🏿* [FIVERR](https://www.fiverr.com/chowacross848)
 
